@@ -1,0 +1,1 @@
+gcms.add_object(302, 4, Color.YELLOW)
